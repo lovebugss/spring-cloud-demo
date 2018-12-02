@@ -31,5 +31,6 @@
     <module>hystrix-dashboard</module>
     <module>turbine</module>
     <module>turbine-amqp</module>
+    <module>api-gateway</module>
 </modules>
 </project>
