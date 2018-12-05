@@ -32,5 +32,6 @@
     <module>turbine</module>
     <module>turbine-amqp</module>
     <module>api-gateway</module>
+    <module>spring-cloud-security</module>
 </modules>
 </project>
